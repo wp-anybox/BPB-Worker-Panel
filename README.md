@@ -14,13 +14,6 @@ This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE
 - **Workers** deployment
 - **Pages** deployment
 
-🌟 If you found **BPB Panel** valuable, Your donations make all the difference 🌟
-
-### USDT (BEP20)
-
-```text
-0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158
-```
 
 ## Features
 
